@@ -8,5 +8,6 @@ Interface:
 - Up/down : increase or decrease the selected value
 - Left / right : only for DI or DF : these numbers are big : eg: 1020 => modif : 10 then modif : 20
 
+![](https://github.com/Awot83/Gamebuino-BEER-CALC/blob/master/Beer_Calc%20v2.gif?raw=true)
 ![](https://github.com/Awot83/Gamebuino-BEER-CALC/blob/master/logoB.png?raw=true)
 ![](https://github.com/Awot83/Gamebuino-BEER-CALC/blob/master/beerCalc2.png?raw=true)
